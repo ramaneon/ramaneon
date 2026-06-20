@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ramanneonx/ramanneonx/main/assets/header.svg" width="100%" alt="ramanneonx"/>
+﻿<div align="center">
+  <img src="https://raw.githubusercontent.com/ramanneonx/ramanneonx/main/assets/header.svg" width="100%" alt="ramanneonx header"/>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=1200&color=00FF94&center=true&vCenter=true&width=720&lines=_+Offline+OSINT+Engine+%E2%86%92+Billions+of+records%2C+zero+internet;_+WiFi+Auditing+Toolkit+%E2%86%92+WPA%2FPMKID%2FWPS+on+Kali%2FParrot;_+Bug+Bounty+OS+%E2%86%92+Track+targets%2C+manage+findings;_+AI+Chat+Interface+%E2%86%92+Streaming+SSE%2C+persistent+memory;_+Neon+Music+Suite+%E2%86%92+ADSR+synthesis%2C+live+on+GitHub+Pages" alt="What I build"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=1200&color=00FF94&center=true&vCenter=true&width=720&lines=Offline+OSINT+Engine+%E2%86%92+Billions+of+records%2C+zero+internet;WiFi+Auditing+Toolkit+%E2%86%92+WPA%2FPMKID%2FWPS+on+Kali%2FParrot;Bug+Bounty+OS+%E2%86%92+Track+targets%2C+manage+findings;AI+Chat+Interface+%E2%86%92+Streaming+SSE%2C+persistent+memory;Neon+Music+Suite+%E2%86%92+ADSR+synthesis%2C+live+on+GitHub+Pages" alt="typing animation"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <a href="https://github.com/ramanneonx?tab=followers">
@@ -23,45 +21,45 @@
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   $ whoami                                                      │
-│                                                                 │
-│   name     →  Raman                                            │
-│   handle   →  ramanneonx                                       │
-│   focus    →  OSINT · WiFi Security · Bug Bounty · App Dev     │
-│   stack    →  Python · JS · TS · Kotlin · Shell · HTML         │
-│   env      →  Kali Linux / Parrot OS (security)                │
-│   vibe     →  Offline-first. Privacy-first. Neon always.       │
-│   status   →  [ BUILDING ]  [ HUNTING ]  [ SHIPPING ]          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                                                                 â”‚
+â”‚   $ whoami                                                      â”‚
+â”‚                                                                 â”‚
+â”‚   name     â†’  Raman                                            â”‚
+â”‚   handle   â†’  ramanneonx                                       â”‚
+â”‚   focus    â†’  OSINT Â· WiFi Security Â· Bug Bounty Â· App Dev     â”‚
+â”‚   stack    â†’  Python Â· JS Â· TS Â· Kotlin Â· Shell Â· HTML         â”‚
+â”‚   env      â†’  Kali Linux / Parrot OS  +  Windows               â”‚
+â”‚   vibe     â†’  Offline-first. Privacy-first. Neon always.       â”‚
+â”‚   status   â†’  [ BUILDING ]  [ HUNTING ]  [ SHIPPING ]          â”‚
+â”‚                                                                 â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 ---
 
-## ⚡ Current Arsenal
+## âš¡ Arsenal
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 OSINT Search Engine
-**→** [`ramanneonx/osint`](https://github.com/ramanneonx/osint)
+### ðŸ” OSINT Search Engine
+**â†’** [`ramanneonx/osint`](https://github.com/ramanneonx/osint)
 
-100% offline, browser-based breach DB lookup tool. Search billions of leaked records by email, domain, username, password, or phone — no internet needed post-setup. Think: private HaveIBeenPwned you fully control.
+100% offline, browser-based breach DB lookup. Search billions of leaked records by email, domain, username, password or phone â€” zero internet needed post-setup.
 
 `HTML` `JavaScript` `pCloud` `Offline-first`
 
-[📥 Download Database](https://filedn.com/lO4GDysFuFnRUboOHVSflVj/)
+[ðŸ“¥ Download Database](https://filedn.com/lO4GDysFuFnRUboOHVSflVj/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🐛 bugbOS — Bug Bounty Desktop OS
-**→** [`ramanneonx/bugb`](https://github.com/ramanneonx/bugb)
+### ðŸ› bugbOS â€” Bug Bounty OS
+**â†’** [`ramanneonx/bugb`](https://github.com/ramanneonx/bugb)
 
-Electron desktop workspace built for bug hunters. Track recon targets, manage vulnerabilities, log findings — with optional Google Drive auto-sync. Offline-first, runs on Windows with no setup friction.
+Electron desktop workspace for bug hunters. Track recon targets, manage vulns, log findings â€” with optional Google Drive auto-sync. Offline-first on Windows.
 
 `Electron` `JavaScript` `SQLite` `Google Drive API`
 
@@ -70,46 +68,46 @@ Electron desktop workspace built for bug hunters. Track recon targets, manage vu
 <tr>
 <td width="50%" valign="top">
 
-### 📡 Wifineon — WiFi Auditing Toolkit
-**→** [`ramanneonx/wifineon`](https://github.com/ramanneonx/wifineon)
+### ðŸ“¡ Wifineon â€” WiFi Auditing
+**â†’** [`ramanneonx/wifineon`](https://github.com/ramanneonx/wifineon)
 
-Cyberpunk-themed PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline: monitor mode → scan → handshake capture → deauth → crack. Supports WPA/WPA2, PMKID, WPS PIN, WEP. Auto attack loop built in.
+Cyberpunk PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline: monitor â†’ scan â†’ capture â†’ deauth â†’ crack. WPA/WPA2, PMKID, WPS PIN, WEP.
 
 `Python` `PyQt6` `aircrack-ng` `hashcat` `Kali Linux`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 N.E.O.N. — AI Interface
-**→** [`ramanneonx/insforge`](https://github.com/ramanneonx/insforge)
+### ðŸ¤– N.E.O.N. â€” AI Interface
+**â†’** [`ramanneonx/insforge`](https://github.com/ramanneonx/insforge)
 
-Serverless AI chat app on InsForge BaaS. Streams responses via SSE for zero latency, persists full chat history to PostgreSQL for authenticated users. Liquid glass UI — deep space purples, electric cyans.
+Serverless AI chat on InsForge BaaS. SSE streaming, PostgreSQL history, liquid glass UI â€” deep space purples and electric cyans.
 
 `React` `TypeScript` `InsForge` `SSE` `PostgreSQL`
 
-[🌐 Live Demo](https://fw9u7qf8.insforge.site)
+[ðŸŒ Live Demo](https://fw9u7qf8.insforge.site)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 NeonMusic — Instrument Suite
-**→** [`ramanneonx/neonmusic`](https://github.com/ramanneonx/neonmusic)
+### ðŸŽµ NeonMusic â€” Instrument Suite
+**â†’** [`ramanneonx/neonmusic`](https://github.com/ramanneonx/neonmusic)
 
-Indian Harmonium + Guitar synthesizer with professional ADSR modeling, octave stacking, and 5-slot WAV export. Fully browser-based, zero install.
+Indian Harmonium + Guitar synth with ADSR modeling, octave stacking, WAV export. Fully browser-based, zero install.
 
 `JavaScript` `Web Audio API` `GitHub Pages`
 
-[🎹 Play Live](https://ramanneonx.github.io/neonmusic/)
+[ðŸŽ¹ Play Live](https://ramanneonx.github.io/neonmusic/)
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 reeltimer + Others
-**→** [`ramanneonx/reeltimer`](https://github.com/ramanneonx/reeltimer) · [`neontool`](https://github.com/ramanneonx/neontool) · [`neonollama`](https://github.com/ramanneonx/neonollama)
+### ðŸ“± More Projects
+**â†’** [`reeltimer`](https://github.com/ramanneonx/reeltimer) Â· [`neontool`](https://github.com/ramanneonx/neontool) Â· [`neonollama`](https://github.com/ramanneonx/neonollama)
 
-Android timer utility (Kotlin), shell toolkit collection, and a local LLM interface experiment using Ollama (paused — hardware constraints).
+Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama.
 
 `Kotlin` `Android` `Bash` `Python` `Ollama`
 
@@ -119,7 +117,7 @@ Android timer utility (Kotlin), shell toolkit collection, and a local LLM interf
 
 ---
 
-## 🛠️ Stack — Pulled From Real Code
+## ðŸ› ï¸ Stack
 
 <div align="center">
 
@@ -137,18 +135,16 @@ Android timer utility (Kotlin), shell toolkit collection, and a local LLM interf
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Security Tooling (used in actual projects)**
+**Security Tooling**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![aircrack-ng](https://img.shields.io/badge/aircrack--ng-CC0000?style=for-the-badge&logoColor=white)
 ![hashcat](https://img.shields.io/badge/hashcat-00FF94?style=for-the-badge&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logoColor=white)
 
 **Tooling**
 
@@ -161,7 +157,7 @@ Android timer utility (Kotlin), shell toolkit collection, and a local LLM interf
 
 ---
 
-## 📊 Numbers
+## ðŸ“Š Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramanneonx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00D4FF&text_color=8B949E&ring_color=7B2FBE&include_all_commits=true&count_private=true"/>
@@ -174,7 +170,7 @@ Android timer utility (Kotlin), shell toolkit collection, and a local LLM interf
 
 ---
 
-## 🐍 Contribution Map
+## ðŸ Contribution Snake
 
 <div align="center">
   <picture>
@@ -186,7 +182,7 @@ Android timer utility (Kotlin), shell toolkit collection, and a local LLM interf
 
 ---
 
-## 🔗 Real Links
+## ðŸ”— Links
 
 <div align="center">
 
@@ -198,25 +194,14 @@ Android timer utility (Kotlin), shell toolkit collection, and a local LLM interf
 &nbsp;
 [![OSINT DB](https://img.shields.io/badge/OSINT-database-00D4FF?style=for-the-badge&logo=cloud&logoColor=black)](https://filedn.com/lO4GDysFuFnRUboOHVSflVj/)
 
-<!-- FUTURE — uncomment when ready:
-[![Portfolio](https://img.shields.io/badge/portfolio-coming_soon-00FF94?style=for-the-badge&logoColor=black)](https://YOUR_URL)
-[![HackerOne](https://img.shields.io/badge/HackerOne-profile-E1641E?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/YOUR_HANDLE)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/YOUR_HANDLE)
--->
-
 </div>
 
 ---
 
 <div align="center">
-<br>
 
 ```
 [ ramanneonx@github ~ ] $ echo "ship fast. break things. fix them faster."
 ```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0D1117,100:0D1117&height=1&section=footer" width="100%"/>
 
 </div>
