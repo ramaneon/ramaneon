@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ramanneonx/ramanneonx/main/assets/header.svg" width="100%" alt="ramanneonx header"/>
 </div>
 
@@ -21,45 +21,45 @@
 ---
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚                                                                 â”‚
-â”‚   $ whoami                                                      â”‚
-â”‚                                                                 â”‚
-â”‚   name     â†’  Raman                                            â”‚
-â”‚   handle   â†’  ramanneonx                                       â”‚
-â”‚   focus    â†’  OSINT Â· WiFi Security Â· Bug Bounty Â· App Dev     â”‚
-â”‚   stack    â†’  Python Â· JS Â· TS Â· Kotlin Â· Shell Â· HTML         â”‚
-â”‚   env      â†’  Kali Linux / Parrot OS  +  Windows               â”‚
-â”‚   vibe     â†’  Offline-first. Privacy-first. Neon always.       â”‚
-â”‚   status   â†’  [ BUILDING ]  [ HUNTING ]  [ SHIPPING ]          â”‚
-â”‚                                                                 â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   $ whoami                                                      │
+│                                                                 │
+│   name     →  Raman                                            │
+│   handle   →  ramanneonx                                       │
+│   focus    →  OSINT · WiFi Security · Bug Bounty · App Dev     │
+│   stack    →  Python · JS · TS · Kotlin · Shell · HTML         │
+│   env      →  Kali Linux / Parrot OS  +  Windows               │
+│   vibe     →  Offline-first. Privacy-first. Neon always.       │
+│   status   →  [ BUILDING ]  [ HUNTING ]  [ SHIPPING ]          │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## âš¡ Arsenal
+## ⚡ Arsenal
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ” OSINT Search Engine
-**â†’** [`ramanneonx/osint`](https://github.com/ramanneonx/osint)
+### 🔍 OSINT Search Engine
+**→** [`ramanneonx/osint`](https://github.com/ramanneonx/osint)
 
-100% offline, browser-based breach DB lookup. Search billions of leaked records by email, domain, username, password or phone â€” zero internet needed post-setup.
+100% offline, browser-based breach DB lookup. Search billions of leaked records by email, domain, username, password or phone — zero internet needed post-setup.
 
 `HTML` `JavaScript` `pCloud` `Offline-first`
 
-[ðŸ“¥ Download Database](https://filedn.com/lO4GDysFuFnRUboOHVSflVj/)
+[📥 Download Database](https://filedn.com/lO4GDysFuFnRUboOHVSflVj/)
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ› bugbOS â€” Bug Bounty OS
-**â†’** [`ramanneonx/bugb`](https://github.com/ramanneonx/bugb)
+### 🐛 bugbOS — Bug Bounty OS
+**→** [`ramanneonx/bugb`](https://github.com/ramanneonx/bugb)
 
-Electron desktop workspace for bug hunters. Track recon targets, manage vulns, log findings â€” with optional Google Drive auto-sync. Offline-first on Windows.
+Electron desktop workspace for bug hunters. Track recon targets, manage vulns, log findings — with optional Google Drive auto-sync. Offline-first on Windows.
 
 `Electron` `JavaScript` `SQLite` `Google Drive API`
 
@@ -68,44 +68,44 @@ Electron desktop workspace for bug hunters. Track recon targets, manage vulns, l
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ“¡ Wifineon â€” WiFi Auditing
-**â†’** [`ramanneonx/wifineon`](https://github.com/ramanneonx/wifineon)
+### 📡 Wifineon — WiFi Auditing
+**→** [`ramanneonx/wifineon`](https://github.com/ramanneonx/wifineon)
 
-Cyberpunk PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline: monitor â†’ scan â†’ capture â†’ deauth â†’ crack. WPA/WPA2, PMKID, WPS PIN, WEP.
+Cyberpunk PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline: monitor → scan → capture → deauth → crack. WPA/WPA2, PMKID, WPS PIN, WEP.
 
 `Python` `PyQt6` `aircrack-ng` `hashcat` `Kali Linux`
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ¤– N.E.O.N. â€” AI Interface
-**â†’** [`ramanneonx/insforge`](https://github.com/ramanneonx/insforge)
+### 🤖 N.E.O.N. — AI Interface
+**→** [`ramanneonx/insforge`](https://github.com/ramanneonx/insforge)
 
-Serverless AI chat on InsForge BaaS. SSE streaming, PostgreSQL history, liquid glass UI â€” deep space purples and electric cyans.
+Serverless AI chat on InsForge BaaS. SSE streaming, PostgreSQL history, liquid glass UI — deep space purples and electric cyans.
 
 `React` `TypeScript` `InsForge` `SSE` `PostgreSQL`
 
-[ðŸŒ Live Demo](https://fw9u7qf8.insforge.site)
+[🌐 Live Demo](https://fw9u7qf8.insforge.site)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸŽµ NeonMusic â€” Instrument Suite
-**â†’** [`ramanneonx/neonmusic`](https://github.com/ramanneonx/neonmusic)
+### 🎵 NeonMusic — Instrument Suite
+**→** [`ramanneonx/neonmusic`](https://github.com/ramanneonx/neonmusic)
 
 Indian Harmonium + Guitar synth with ADSR modeling, octave stacking, WAV export. Fully browser-based, zero install.
 
 `JavaScript` `Web Audio API` `GitHub Pages`
 
-[ðŸŽ¹ Play Live](https://ramanneonx.github.io/neonmusic/)
+[🎹 Play Live](https://ramanneonx.github.io/neonmusic/)
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ“± More Projects
-**â†’** [`reeltimer`](https://github.com/ramanneonx/reeltimer) Â· [`neontool`](https://github.com/ramanneonx/neontool) Â· [`neonollama`](https://github.com/ramanneonx/neonollama)
+### 📱 More Projects
+**→** [`reeltimer`](https://github.com/ramanneonx/reeltimer) · [`neontool`](https://github.com/ramanneonx/neontool) · [`neonollama`](https://github.com/ramanneonx/neonollama)
 
 Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama.
 
@@ -117,7 +117,7 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## ðŸ› ï¸ Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -157,7 +157,7 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## ðŸ“Š Stats
+## 📊 Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramanneonx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00D4FF&text_color=8B949E&ring_color=7B2FBE&include_all_commits=true&count_private=true"/>
@@ -170,7 +170,7 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## ðŸ Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -182,7 +182,7 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## ðŸ”— Links
+## 🔗 Links
 
 <div align="center">
 
