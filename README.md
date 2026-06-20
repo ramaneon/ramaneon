@@ -1,44 +1,57 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ramaneon/ramaneon/main/assets/header.svg" width="100%" alt="ramaneon header"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=1200&color=00FF94&center=true&vCenter=true&width=720&lines=Offline+OSINT+Engine+%E2%86%92+Billions+of+records%2C+zero+internet;WiFi+Auditing+Toolkit+%E2%86%92+WPA%2FPMKID%2FWPS+on+Kali%2FParrot;Bug+Bounty+OS+%E2%86%92+Track+targets%2C+manage+findings;AI+Chat+Interface+%E2%86%92+Streaming+SSE%2C+persistent+memory;Neon+Music+Suite+%E2%86%92+ADSR+synthesis%2C+live+on+GitHub+Pages" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=00FF94&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Raman+%F0%9F%91%8B;Builder+%7C+Security+Researcher+%7C+Bug+Hunter;Offline+OSINT+%E2%86%92+Billions+of+records%2C+zero+internet;WiFi+Auditing+%E2%86%92+WPA%2FPMKID%2FWPS+on+Kali%2FParrot;Neon+always.+Privacy+first.+Ship+fast." alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ramaneon?tab=followers">
-    <img src="https://img.shields.io/github/followers/ramaneon?style=flat-square&labelColor=0D1117&color=00FF94&logo=github&label=followers"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ramaneon&style=flat-square&color=7B2FBE&label=views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/open_to-collaborations-00D4FF?style=flat-square&labelColor=0D1117"/>
-</div>
+<img width="27%" align="right" src="https://raw.githubusercontent.com/ramaneon/ramaneon/main/assets/header.svg"/>
+
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+I'm **Raman** (`ramaneon`) — a builder, OSINT researcher, and bug hunter. I build offline-first tools, WiFi auditing suites, bug bounty workspaces, and AI chat interfaces. Privacy-first, neon always.
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: Raman
+- **Handle**: ramaneon
+- **Focus**: OSINT · WiFi Security · Bug Bounty · App Dev
+- **Stack**: Python · JS · TS · Kotlin · Shell · HTML
+- **Env**: Kali Linux / Parrot OS + Windows
+- **Vibe**: Offline-first. Privacy-first. Neon always.
+- **Status**: `[ BUILDING ]` `[ HUNTING ]` `[ SHIPPING ]`
+- **Contact**: open an issue or check my projects 👇
+
+</details>
+
+<br/>
 
 ---
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   $ whoami                                                      │
-│                                                                 │
-│   name     →  Raman                                            │
-│   handle   →  ramaneon                                         │
-│   focus    →  OSINT · WiFi Security · Bug Bounty · App Dev     │
-│   stack    →  Python · JS · TS · Kotlin · Shell · HTML         │
-│   env      →  Kali Linux / Parrot OS  +  Windows               │
-│   vibe     →  Offline-first. Privacy-first. Neon always.       │
-│   status   →  [ BUILDING ]  [ HUNTING ]  [ SHIPPING ]          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<h2>⚡ Present Status</h2>
+
+<img width="25%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+👉 Building offline OSINT engine with billions of breach records
+
+👉 Developing WiFi auditing suite for Kali/Parrot OS
+
+👉 Hunting bugs and writing security tools
+
+👉 Shipping AI chat + music synth apps to GitHub Pages
+
+👉 Currently deep diving into mobile pentesting
+
+`Status:` Active on all fronts. 🔥
 
 ---
 
-## ⚡ Arsenal
+<h2>🔍 Arsenal</h2>
 
 <table>
 <tr>
@@ -47,7 +60,7 @@
 ### 🔍 OSINT Search Engine
 **→** [`ramaneon/osint`](https://github.com/ramaneon/osint)
 
-100% offline, browser-based breach DB lookup. Search billions of leaked records by email, domain, username, password or phone — zero internet needed post-setup.
+100% offline breach DB lookup. Search billions of leaked records by email, domain, username, password or phone — zero internet needed post-setup.
 
 `HTML` `JavaScript` `pCloud` `Offline-first`
 
@@ -117,9 +130,9 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## 🛠️ Stack
+<h2>🛠️ Knowledge & Skills</h2>
 
-<div align="center">
+<div align="center" style="border: 2px solid #00FF94; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
 **Languages**
 
@@ -142,11 +155,13 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 **Security Tooling**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![aircrack-ng](https://img.shields.io/badge/aircrack--ng-CC0000?style=for-the-badge&logoColor=white)
 ![hashcat](https://img.shields.io/badge/hashcat-00FF94?style=for-the-badge&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
 
-**Tooling**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -197,6 +212,8 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
