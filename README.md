@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=00FF94&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Raman+%F0%9F%91%8B;Builder+%7C+Security+Researcher+%7C+Bug+Hunter;Offline+OSINT+%E2%86%92+Billions+of+records%2C+zero+internet;WiFi+Auditing+%E2%86%92+WPA%2FPMKID%2FWPS+on+Kali%2FParrot;Neon+always.+Privacy+first.+Ship+fast." alt="Typing SVG" />
@@ -213,7 +213,7 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <div align="center">
 
