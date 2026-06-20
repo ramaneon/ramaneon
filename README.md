@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramanneonx/ramanneonx/main/assets/header.svg" width="100%" alt="ramanneonx header"/>
+  <img src="https://raw.githubusercontent.com/ramaneon/ramaneon/main/assets/header.svg" width="100%" alt="ramaneon header"/>
 </div>
 
 <div align="center">
@@ -9,11 +9,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ramanneonx?tab=followers">
-    <img src="https://img.shields.io/github/followers/ramanneonx?style=flat-square&labelColor=0D1117&color=00FF94&logo=github&label=followers"/>
+  <a href="https://github.com/ramaneon?tab=followers">
+    <img src="https://img.shields.io/github/followers/ramaneon?style=flat-square&labelColor=0D1117&color=00FF94&logo=github&label=followers"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ramanneonx&style=flat-square&color=7B2FBE&label=views"/>
+  <img src="https://komarev.com/ghpvc/?username=ramaneon&style=flat-square&color=7B2FBE&label=views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/open_to-collaborations-00D4FF?style=flat-square&labelColor=0D1117"/>
 </div>
@@ -26,7 +26,7 @@
 │   $ whoami                                                      │
 │                                                                 │
 │   name     →  Raman                                            │
-│   handle   →  ramanneonx                                       │
+│   handle   →  ramaneon                                         │
 │   focus    →  OSINT · WiFi Security · Bug Bounty · App Dev     │
 │   stack    →  Python · JS · TS · Kotlin · Shell · HTML         │
 │   env      →  Kali Linux / Parrot OS  +  Windows               │
@@ -45,7 +45,7 @@
 <td width="50%" valign="top">
 
 ### 🔍 OSINT Search Engine
-**→** [`ramanneonx/osint`](https://github.com/ramanneonx/osint)
+**→** [`ramaneon/osint`](https://github.com/ramaneon/osint)
 
 100% offline, browser-based breach DB lookup. Search billions of leaked records by email, domain, username, password or phone — zero internet needed post-setup.
 
@@ -57,7 +57,7 @@
 <td width="50%" valign="top">
 
 ### 🐛 bugbOS — Bug Bounty OS
-**→** [`ramanneonx/bugb`](https://github.com/ramanneonx/bugb)
+**→** [`ramaneon/bugb`](https://github.com/ramaneon/bugb)
 
 Electron desktop workspace for bug hunters. Track recon targets, manage vulns, log findings — with optional Google Drive auto-sync. Offline-first on Windows.
 
@@ -69,7 +69,7 @@ Electron desktop workspace for bug hunters. Track recon targets, manage vulns, l
 <td width="50%" valign="top">
 
 ### 📡 Wifineon — WiFi Auditing
-**→** [`ramanneonx/wifineon`](https://github.com/ramanneonx/wifineon)
+**→** [`ramaneon/wifineon`](https://github.com/ramaneon/wifineon)
 
 Cyberpunk PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline: monitor → scan → capture → deauth → crack. WPA/WPA2, PMKID, WPS PIN, WEP.
 
@@ -79,7 +79,7 @@ Cyberpunk PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline:
 <td width="50%" valign="top">
 
 ### 🤖 N.E.O.N. — AI Interface
-**→** [`ramanneonx/insforge`](https://github.com/ramanneonx/insforge)
+**→** [`ramaneon/insforge`](https://github.com/ramaneon/insforge)
 
 Serverless AI chat on InsForge BaaS. SSE streaming, PostgreSQL history, liquid glass UI — deep space purples and electric cyans.
 
@@ -93,19 +93,19 @@ Serverless AI chat on InsForge BaaS. SSE streaming, PostgreSQL history, liquid g
 <td width="50%" valign="top">
 
 ### 🎵 NeonMusic — Instrument Suite
-**→** [`ramanneonx/neonmusic`](https://github.com/ramanneonx/neonmusic)
+**→** [`ramaneon/neonmusic`](https://github.com/ramaneon/neonmusic)
 
 Indian Harmonium + Guitar synth with ADSR modeling, octave stacking, WAV export. Fully browser-based, zero install.
 
 `JavaScript` `Web Audio API` `GitHub Pages`
 
-[🎹 Play Live](https://ramanneonx.github.io/neonmusic/)
+[🎹 Play Live](https://ramaneon.github.io/neonmusic/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 More Projects
-**→** [`reeltimer`](https://github.com/ramanneonx/reeltimer) · [`neontool`](https://github.com/ramanneonx/neontool) · [`neonollama`](https://github.com/ramanneonx/neonollama)
+**→** [`reeltimer`](https://github.com/ramaneon/reeltimer) · [`neontool`](https://github.com/ramaneon/neontool) · [`neonollama`](https://github.com/ramaneon/neonollama)
 
 Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama.
 
@@ -160,12 +160,12 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 ## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramanneonx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00D4FF&text_color=8B949E&ring_color=7B2FBE&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanneonx&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=8B949E&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramaneon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00D4FF&text_color=8B949E&ring_color=7B2FBE&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaneon&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=8B949E&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramanneonx&hide_border=true&background=0D1117&ring=00FF94&fire=00D4FF&currStreakLabel=00FF94&sideLabels=8B949E&dates=8B949E&sideNums=c9d1d9&currStreakNum=ffffff"/>
+  <img src="https://streak-stats.demolab.com?user=ramaneon&hide_border=true&background=0D1117&ring=00FF94&fire=00D4FF&currStreakLabel=00FF94&sideLabels=8B949E&dates=8B949E&sideNums=c9d1d9&currStreakNum=ffffff"/>
 </div>
 
 ---
@@ -174,9 +174,9 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramanneonx/ramanneonx/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramanneonx/ramanneonx/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/ramanneonx/ramanneonx/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramaneon/ramaneon/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramaneon/ramaneon/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/ramaneon/ramaneon/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
   </picture>
 </div>
 
@@ -186,9 +186,9 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-ramanneonx-0D1117?style=for-the-badge&logo=github&logoColor=00FF94&labelColor=0D1117)](https://github.com/ramanneonx)
+[![GitHub](https://img.shields.io/badge/github-ramaneon-0D1117?style=for-the-badge&logo=github&logoColor=00FF94&labelColor=0D1117)](https://github.com/ramaneon)
 &nbsp;
-[![NeonMusic](https://img.shields.io/badge/neonmusic-live_demo-00FF94?style=for-the-badge&logo=github-pages&logoColor=black)](https://ramanneonx.github.io/neonmusic/)
+[![NeonMusic](https://img.shields.io/badge/neonmusic-live_demo-00FF94?style=for-the-badge&logo=github-pages&logoColor=black)](https://ramaneon.github.io/neonmusic/)
 &nbsp;
 [![N.E.O.N.](https://img.shields.io/badge/N.E.O.N.-ai_chat-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white)](https://fw9u7qf8.insforge.site)
 &nbsp;
@@ -201,7 +201,7 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 <div align="center">
 
 ```
-[ ramanneonx@github ~ ] $ echo "ship fast. break things. fix them faster."
+[ ramaneon@github ~ ] $ echo "ship fast. break things. fix them faster."
 ```
 
 </div>

@@ -183,13 +183,13 @@
 <circle cx="878" cy="288" r="3" fill="#00D4FF" style="animation: pulse 2.5s ease-in-out infinite;"/>
 
 <!-- 3D depth layers for title (creates 3D extrusion effect) -->
-<text x="456" y="148" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#001A0A" letter-spacing="3">ramanneonx</text>
-<text x="454" y="146" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#002A10" letter-spacing="3">ramanneonx</text>
-<text x="452" y="144" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#003A18" letter-spacing="3">ramanneonx</text>
-<text x="450" y="142" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#004D20" letter-spacing="3">ramanneonx</text>
+<text x="456" y="148" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#001A0A" letter-spacing="3">ramaneon</text>
+<text x="454" y="146" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#002A10" letter-spacing="3">ramaneon</text>
+<text x="452" y="144" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#003A18" letter-spacing="3">ramaneon</text>
+<text x="450" y="142" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="#004D20" letter-spacing="3">ramaneon</text>
 
 <!-- Main title - gradient + glow -->
-<text x="450" y="140" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="url(#tg)" filter="url(#tglow)" letter-spacing="3" style="animation: pulse 3s ease-in-out infinite;">ramanneonx</text>
+<text x="450" y="140" font-family="Courier New, monospace" font-size="68" font-weight="900" text-anchor="middle" fill="url(#tg)" filter="url(#tglow)" letter-spacing="3" style="animation: pulse 3s ease-in-out infinite;">ramaneon</text>
 
 <!-- Accent lines flanking center -->
 <rect x="60" y="158" width="270" height="1.5" fill="url(#ll)"/>
