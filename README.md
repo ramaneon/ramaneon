@@ -195,7 +195,14 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramaneon/ramaneon/output/github-contribution-grid-snake.svg"/>
     <img src="https://raw.githubusercontent.com/ramaneon/ramaneon/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
   </picture>
+
+  <br/>
+
+  [![Play Snake](https://img.shields.io/badge/🐍_PLAY_SNAKE-Click_to_Play!-00FF94?style=for-the-badge&labelColor=0D1117&color=00FF94)](https://ramaneon.github.io/ramaneon/snake.html)
+
+  <sub>🕹️ Playable neon snake game — keyboard · touch · swipe supported</sub>
 </div>
+
 
 ---
 
