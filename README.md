@@ -17,6 +17,14 @@
 
 I'm **Raman** (`ramaneon`) — a builder, OSINT researcher, and bug hunter. I build offline-first tools, WiFi auditing suites, bug bounty workspaces, and AI chat interfaces. Privacy-first, neon always.
 
+<div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramaneon&color=00FF94&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Repos](https://img.shields.io/badge/Repos-16-00D4FF?style=for-the-badge&logo=github&logoColor=black)
+![License](https://img.shields.io/badge/Security-OSINT%20%7C%20Bug%20Bounty-7B2FBE?style=for-the-badge&logo=shields.io&logoColor=white)
+
+</div>
+
 <details>
   <summary>More about me</summary>
 
@@ -207,6 +215,30 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ramaneon&hide_border=true&background=0D1117&ring=00FF94&fire=00D4FF&currStreakLabel=00FF94&sideLabels=8B949E&dates=8B949E&sideNums=c9d1d9&currStreakNum=ffffff"/>
+</div>
+
+---
+
+## 🏆 GitHub Badges & Achievements
+
+<div align="center">
+
+<a href="https://github.com/ramaneon">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramaneon&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" />
+</a>
+
+<br/><br/>
+
+### 🎖️ Profile Badges & Achievements
+
+[![Pull Shark](https://img.shields.io/badge/GitHub_Badge-Pull_Shark-00FF94?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF94)](https://github.com/ramaneon)
+&nbsp;
+[![Quickdraw](https://img.shields.io/badge/GitHub_Badge-Quickdraw-00D4FF?style=for-the-badge&logo=github&labelColor=0D1117&color=00D4FF)](https://github.com/ramaneon)
+&nbsp;
+[![Pair Extraordinaire](https://img.shields.io/badge/GitHub_Badge-Pair_Extraordinaire-7B2FBE?style=for-the-badge&logo=github&labelColor=0D1117&color=7B2FBE)](https://github.com/ramaneon)
+&nbsp;
+[![Security Specialist](https://img.shields.io/badge/GitHub_Badge-Security_Specialist-FF5722?style=for-the-badge&logo=github&labelColor=0D1117&color=FF5722)](https://github.com/ramaneon)
+
 </div>
 
 ---
