@@ -71,18 +71,6 @@ Bug Bounty Master Methodology Checklist & Workflow. Recon pipelines, target disc
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Jane AI — Holographic Jarvis
-**→** [`ramaneon/jane`](https://github.com/ramaneon/jane)
-
-Open Source Holographic Jarvis System by Raman. Voice-activated automation, local AI execution & cyberpunk HUD interface.
-
-`Python` `AI` `Voice` `Jarvis` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔍 OSINT Search Engine
 **→** [`ramaneon/osint`](https://github.com/ramaneon/osint)
 
@@ -91,40 +79,6 @@ Open Source Holographic Jarvis System by Raman. Voice-activated automation, loca
 `HTML` `JavaScript` `pCloud` `Offline-first`
 
 [📥 Download Database](https://filedn.com/lO4GDysFuFnRUboOHVSflVj/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐛 bugbOS — Bug Bounty OS
-**→** [`ramaneon/bugb`](https://github.com/ramaneon/bugb)
-
-Electron desktop workspace for bug hunters. Track recon targets, manage vulns, log findings — with optional Google Drive auto-sync. Offline-first on Windows.
-
-`Electron` `JavaScript` `SQLite` `Google Drive API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 Wifineon — WiFi Auditing
-**→** [`ramaneon/wifineon`](https://github.com/ramaneon/wifineon)
-
-Cyberpunk PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline: monitor → scan → capture → deauth → crack. WPA/WPA2, PMKID, WPS PIN, WEP.
-
-`Python` `PyQt6` `aircrack-ng` `hashcat` `Kali Linux`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 N.E.O.N. — AI Interface
-**→** [`ramaneon/insforge`](https://github.com/ramaneon/insforge)
-
-Serverless AI chat on InsForge BaaS. SSE streaming, PostgreSQL history, liquid glass UI — deep space purples and electric cyans.
-
-`React` `TypeScript` `InsForge` `SSE` `PostgreSQL`
-
-[🌐 Live Demo](https://fw9u7qf8.insforge.site)
 
 </td>
 </tr>
@@ -139,6 +93,52 @@ Indian Harmonium + Guitar synth with ADSR modeling, octave stacking, WAV export.
 `JavaScript` `Web Audio API` `GitHub Pages`
 
 [🎹 Play Live](https://ramaneon.github.io/neonmusic/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Jane AI — Holographic Jarvis
+**→** [`ramaneon/jane`](https://github.com/ramaneon/jane)
+
+Open Source Holographic Jarvis System by Raman. Voice-activated automation, local AI execution & cyberpunk HUD interface.
+
+`Python` `AI` `Voice` `Jarvis` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐛 bugbOS — Bug Bounty OS
+**→** [`ramaneon/bugb`](https://github.com/ramaneon/bugb)
+
+Electron desktop workspace for bug hunters. Track recon targets, manage vulns, log findings — with optional Google Drive auto-sync. Offline-first on Windows.
+
+`Electron` `JavaScript` `SQLite` `Google Drive API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Wifineon — WiFi Auditing
+**→** [`ramaneon/wifineon`](https://github.com/ramaneon/wifineon)
+
+Cyberpunk PyQt6 GUI for WiFi security auditing on Kali/Parrot OS. Full pipeline: monitor → scan → capture → deauth → crack. WPA/WPA2, PMKID, WPS PIN, WEP.
+
+`Python` `PyQt6` `aircrack-ng` `hashcat` `Kali Linux`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 N.E.O.N. — AI Interface
+**→** [`ramaneon/insforge`](https://github.com/ramaneon/insforge)
+
+Serverless AI chat on InsForge BaaS. SSE streaming, PostgreSQL history, liquid glass UI — deep space purples and electric cyans.
+
+`React` `TypeScript` `InsForge` `SSE` `PostgreSQL`
+
+[🌐 Live Demo](https://fw9u7qf8.insforge.site)
 
 </td>
 <td width="50%" valign="top">
