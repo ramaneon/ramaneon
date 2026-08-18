@@ -50,15 +50,15 @@ I'm **Raman** (`ramaneon`) — a builder, OSINT researcher, and bug hunter. I bu
 
 <img width="25%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+👉 Publishing & maintaining [Bug Bounty Master Methodology](https://ramaneon.github.io/methodology/)
+
+👉 Developing Jane AI — Open source Holographic Jarvis system
+
 👉 Building offline OSINT engine with billions of breach records
 
-👉 Developing WiFi auditing suite for Kali/Parrot OS
+👉 Developing Wifineon WiFi auditing suite for Kali/Parrot OS
 
-👉 Hunting bugs and writing security tools
-
-👉 Shipping AI chat + music synth apps to GitHub Pages
-
-👉 Currently deep diving into mobile pentesting
+👉 Hunting bugs & shipping security tools
 
 `Status:` Active on all fronts. 🔥
 
@@ -67,6 +67,30 @@ I'm **Raman** (`ramaneon`) — a builder, OSINT researcher, and bug hunter. I bu
 <h2>🔍 Arsenal</h2>
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Bug Bounty Methodology
+**→** [`ramaneon/methodology`](https://github.com/ramaneon/methodology)
+
+Bug Bounty Master Methodology Checklist & Workflow. Recon pipelines, target discovery, vulnerability checklists, web/API pentesting guidelines.
+
+`HTML` `JavaScript` `CSS` `Bug Bounty` `Security`
+
+[📜 View Methodology](https://ramaneon.github.io/methodology/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Jane AI — Holographic Jarvis
+**→** [`ramaneon/jane`](https://github.com/ramaneon/jane)
+
+Open Source Holographic Jarvis System by Raman. Voice-activated automation, local AI execution & cyberpunk HUD interface.
+
+`Python` `AI` `Voice` `Jarvis` `Automation`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -131,11 +155,11 @@ Indian Harmonium + Guitar synth with ADSR modeling, octave stacking, WAV export.
 <td width="50%" valign="top">
 
 ### 📱 More Projects
-**→** [`reeltimer`](https://github.com/ramaneon/reeltimer) · [`neontool`](https://github.com/ramaneon/neontool) · [`neonollama`](https://github.com/ramaneon/neonollama)
+**→** [`reeltimer`](https://github.com/ramaneon/reeltimer) · [`neontool`](https://github.com/ramaneon/neontool) · [`neonollama`](https://github.com/ramaneon/neonollama) · [`neonai`](https://github.com/ramaneon/neonai)
 
-Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama.
+Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama, Java AI suite.
 
-`Kotlin` `Android` `Bash` `Python` `Ollama`
+`Kotlin` `Android` `Bash` `Python` `Java`
 
 </td>
 </tr>
@@ -222,6 +246,8 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-ramaneon-0D1117?style=for-the-badge&logo=github&logoColor=00FF94&labelColor=0D1117)](https://github.com/ramaneon)
+&nbsp;
+[![Methodology](https://img.shields.io/badge/Methodology-bug_bounty-FF5722?style=for-the-badge&logo=github-pages&logoColor=white)](https://ramaneon.github.io/methodology/)
 &nbsp;
 [![NeonMusic](https://img.shields.io/badge/neonmusic-live_demo-00FF94?style=for-the-badge&logo=github-pages&logoColor=black)](https://ramaneon.github.io/neonmusic/)
 &nbsp;
