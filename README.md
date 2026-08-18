@@ -228,27 +228,27 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 <div align="center">
 
-<a href="https://github.com/ramaneon?tab=achievements">
+<a href="https://github.com/ramaneon">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="105px" alt="Pull Shark" title="Pull Shark — Opened pull requests that were merged"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ramaneon?tab=achievements">
+<a href="https://github.com/ramaneon">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="105px" alt="Quickdraw" title="Quickdraw — Closed issue/PR within 5 minutes"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ramaneon?tab=achievements">
+<a href="https://github.com/ramaneon">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="105px" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored commits in merged PRs"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ramaneon?tab=achievements">
+<a href="https://github.com/ramaneon">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="105px" alt="YOLO" title="YOLO — Merged PR without review"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ramaneon?tab=achievements">
+<a href="https://github.com/ramaneon">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="105px" alt="Starstruck" title="Starstruck — Created repository with 16+ stars"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ramaneon?tab=achievements">
+<a href="https://github.com/ramaneon">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="105px" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor — Contributed code to 2020 GitHub Archive Program"/>
 </a>
 
