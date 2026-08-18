@@ -19,7 +19,7 @@ I'm **Raman** (`ramaneon`) — a builder, OSINT researcher, and bug hunter. I bu
 
 <div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramaneon&color=00FF94&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ramaneon.ramaneon&right_color=%2300FF94&left_color=%230D1117)
 ![GitHub Repos](https://img.shields.io/badge/Repos-16-00D4FF?style=for-the-badge&logo=github&logoColor=black)
 ![License](https://img.shields.io/badge/Security-OSINT%20%7C%20Bug%20Bounty-7B2FBE?style=for-the-badge&logo=shields.io&logoColor=white)
 
