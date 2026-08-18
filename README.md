@@ -219,25 +219,25 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## 🏆 GitHub Badges & Achievements
+## 📈 Activity & Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramaneon&theme=react-dark&bg_color=0D1117&color=00FF94&line=00FF94&point=00D4FF&area=true&hide_border=true" width="100%" alt="ramaneon activity graph" />
+</div>
+
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/ramaneon">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramaneon&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" />
-</a>
+### 🎖️ Profile Badges & Highlights
 
-<br/><br/>
-
-### 🎖️ Profile Badges & Achievements
-
-[![Pull Shark](https://img.shields.io/badge/GitHub_Badge-Pull_Shark-00FF94?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF94)](https://github.com/ramaneon)
+[![Pull Shark](https://img.shields.io/badge/GitHub_Badge-Pull_Shark-00FF94?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF94)](https://github.com/ramaneon?tab=repositories)
 &nbsp;
-[![Quickdraw](https://img.shields.io/badge/GitHub_Badge-Quickdraw-00D4FF?style=for-the-badge&logo=github&labelColor=0D1117&color=00D4FF)](https://github.com/ramaneon)
+[![Quickdraw](https://img.shields.io/badge/Methodology-Bug_Bounty-00D4FF?style=for-the-badge&logo=target&labelColor=0D1117&color=00D4FF)](https://ramaneon.github.io/methodology/)
 &nbsp;
-[![Pair Extraordinaire](https://img.shields.io/badge/GitHub_Badge-Pair_Extraordinaire-7B2FBE?style=for-the-badge&logo=github&labelColor=0D1117&color=7B2FBE)](https://github.com/ramaneon)
+[![Jarvis OS](https://img.shields.io/badge/Holographic_AI-Jane_AI-7B2FBE?style=for-the-badge&logo=robot&labelColor=0D1117&color=7B2FBE)](https://github.com/ramaneon/jane)
 &nbsp;
-[![Security Specialist](https://img.shields.io/badge/GitHub_Badge-Security_Specialist-FF5722?style=for-the-badge&logo=github&labelColor=0D1117&color=FF5722)](https://github.com/ramaneon)
+[![Security Specialist](https://img.shields.io/badge/Security-OSINT_%26_Wifi-FF5722?style=for-the-badge&logo=kali-linux&labelColor=0D1117&color=FF5722)](https://github.com/ramaneon/osint)
 
 </div>
 
