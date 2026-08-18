@@ -1,3 +1,14 @@
+
+### ðŸŽ¯ Bug Bounty Master Methodology
+**âš¡** [amaneon/methodology](https://github.com/ramaneon/methodology)
+
+Full interactive Bug Bounty Checklist & Multi-Phase Methodology covering Recon, Subdomain Enumeration, Parameter Fuzzing, API Auditing, Vulnerability Hunting, and Reporting.
+
+Interactive Checklist Live Web App Bug Bounty GitHub Pages
+
+[ðŸš€ Open Live App](https://ramaneon.github.io/methodology/)
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ramaneon/ramaneon/main/assets/header.svg" width="100%" alt="ramaneon header"/>
 </div>
