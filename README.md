@@ -209,9 +209,17 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 <h2>📊 GitHub Stats & Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ramaneon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00D4FF&text_color=C9D1D9&include_all_commits=true" alt="ramaneon GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=ramaneon&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=C9D1D9&layout=compact&langs_count=6" alt="ramaneon Top Languages" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramaneon&theme=github_dark" width="100%" alt="ramaneon profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramaneon&theme=github_dark" width="49%" alt="repos per language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramaneon&theme=github_dark" width="49%" alt="most commit language" />
+</p>
+
 </div>
 
 ---
