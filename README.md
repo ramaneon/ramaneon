@@ -219,26 +219,44 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## 📈 Activity & Contribution Graph
+<h2>🏆 GitHub Achievements</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramaneon&theme=react-dark&bg_color=0D1117&color=00FF94&line=00FF94&point=00D4FF&area=true&hide_border=true" width="100%" alt="ramaneon activity graph" />
+
+<a href="https://github.com/ramaneon">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="105px" alt="Pull Shark" title="Pull Shark — Opened pull requests that were merged"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://ramaneon.github.io/methodology/">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="105px" alt="Quickdraw" title="Quickdraw — Closed issue/PR within 5 minutes"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ramaneon/jane">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="105px" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored commits"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ramaneon/osint">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="105px" alt="YOLO" title="YOLO — Merged without review"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ramaneon">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="105px" alt="Starstruck" title="Starstruck — Repositories starred by community"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ramaneon">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="105px" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
+</a>
+
 </div>
 
 <br/>
 
+---
+
+<h2>📈 Activity & Contribution Graph</h2>
+
 <div align="center">
-
-### 🎖️ Profile Badges & Highlights
-
-[![Pull Shark](https://img.shields.io/badge/GitHub_Badge-Pull_Shark-00FF94?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF94)](https://github.com/ramaneon?tab=repositories)
-&nbsp;
-[![Quickdraw](https://img.shields.io/badge/Methodology-Bug_Bounty-00D4FF?style=for-the-badge&logo=target&labelColor=0D1117&color=00D4FF)](https://ramaneon.github.io/methodology/)
-&nbsp;
-[![Jarvis OS](https://img.shields.io/badge/Holographic_AI-Jane_AI-7B2FBE?style=for-the-badge&logo=robot&labelColor=0D1117&color=7B2FBE)](https://github.com/ramaneon/jane)
-&nbsp;
-[![Security Specialist](https://img.shields.io/badge/Security-OSINT_%26_Wifi-FF5722?style=for-the-badge&logo=kali-linux&labelColor=0D1117&color=FF5722)](https://github.com/ramaneon/osint)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramaneon&theme=react-dark&bg_color=0D1117&color=00FF94&line=00FF94&point=00D4FF&area=true&hide_border=true" width="100%" alt="ramaneon activity graph" />
 </div>
 
 ---
