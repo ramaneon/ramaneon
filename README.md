@@ -206,15 +206,17 @@ Android timer (Kotlin), shell toolkit collection, local LLM interface via Ollama
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramaneon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00D4FF&text_color=8B949E&ring_color=7B2FBE&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaneon&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=8B949E&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ramaneon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00D4FF&text_color=8B949E&ring_color=7B2FBE&include_all_commits=true" alt="ramaneon github stats"/>
+  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=ramaneon&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=8B949E&langs_count=8" alt="ramaneon top languages"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramaneon&hide_border=true&background=0D1117&ring=00FF94&fire=00D4FF&currStreakLabel=00FF94&sideLabels=8B949E&dates=8B949E&sideNums=c9d1d9&currStreakNum=ffffff"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramaneon&theme=2077" width="100%" alt="ramaneon profile summary" />
 </div>
 
 ---
